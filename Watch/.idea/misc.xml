@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/020.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_main.xml" value="0.935871743486974" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/dev.xml" value="1.5462555066079295" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/home.xml" value="1.5462555066079295" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l000.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l010.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l020.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l030.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l040.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l050.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l060.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l070.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l080.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l090.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/l100.xml" value="1.5462555066079295" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/log.xml" value="1.550660792951542" />
+        <entry key="..\:/Users/student/AndroidStudioProjects/Watch/app/src/main/res/layout/room.xml" value="1.5462555066079295" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="1.550660792951542" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
